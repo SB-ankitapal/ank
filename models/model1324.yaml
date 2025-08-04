@@ -1,0 +1,13 @@
+title: model1324
+x-stoplight:
+  id: ii78ckxpvbmgu
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: l9vk923jm0akv
+  rer:
+    x-stoplight:
+      id: kd6l4gevlafpl
+    enum: []
