@@ -41,7 +41,8 @@ paths:
       description: |-
         Retrieve the information of the user with the matching user ID.
 
-        there is testing
+        there is testing.
+        some/text
       x-stoplight:
         id: 878tjse76jxo3
     patch:
