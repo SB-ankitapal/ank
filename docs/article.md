@@ -18,7 +18,7 @@ There is testing..
 
 ~~hjkl; kjkjk~~
 
-> momument thiks hai.\\
+> Qwerty keypad.
 
 [Google](https://meta.stoplight.io/docs/stoplight-api-docs/f6hiiufckkwgf-catalog-api-overview)
 
