@@ -167,6 +167,11 @@ paths:
         name: '567890'
         in: path
         required: true
+      - schema:
+          type: string
+        name: '567890'
+        in: path
+        required: true
     get:
       summary: Your GET endpoint
       tags: []
@@ -192,6 +197,14 @@ paths:
       operationId: head-test-567890
       x-stoplight:
         id: rlg6asrnwdu83
+    post:
+      summary: Your POST endpoint
+      tags: []
+      responses: {}
+      operationId: post-test-567890
+      x-stoplight:
+        id: wml9fu8it3whj
+      description: dfrgjj
 components:
   schemas:
     User:
