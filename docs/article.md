@@ -6,3 +6,6 @@ stoplight-id: fk66yvfwc23hv
 
 The beginning of an awesome article...ggg
 
+
+'some/text'
+
