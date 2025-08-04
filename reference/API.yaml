@@ -166,7 +166,18 @@ paths:
     get:
       summary: Your GET endpoint
       tags: []
-      responses: {}
+      responses:
+        '207':
+          description: Multi-Status (WebDAV)
+          content:
+            application/octet-stream:
+              schema:
+                type: object
+                properties:
+                  refer:
+                    $ref: 'stoplight://resources/overrides/me9CFYsV9jI'
+                    x-stoplight:
+                      id: mweyr8agjuzgx
       operationId: get-test-567890
       x-stoplight:
         id: hr2vu7liqr0g7
