@@ -18,7 +18,7 @@ There is testing..
 
 ~~hjkl; kjkjk~~
 
-> Qwerty keypad.
+> this is the quote.//
 
 [Google](https://meta.stoplight.io/docs/stoplight-api-docs/f6hiiufckkwgf-catalog-api-overview)
 
