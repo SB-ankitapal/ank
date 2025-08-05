@@ -398,7 +398,7 @@ There is testing..
         },
         "emailVerified": {
           "type": "boolean",
-          "description": "Set to true if the user's email has been verified."
+          "description": "Set to true if the user's email has been verifiedtest 2680."
         },
         "createDate": {
           "type": "string",
