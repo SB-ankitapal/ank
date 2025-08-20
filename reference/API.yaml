@@ -4,7 +4,7 @@ x-stoplight:
 info:
   title: API
   version: '1.0'
-  description: yhujikol;
+  description: yhujikol;Lint
 servers:
   - url: 'http://localhost:3000'
 paths:
